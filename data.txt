@@ -1,0 +1,105 @@
+001,Don Quixote,Miguel de Cervantes,1
+002,A Tale of Two Cities,Charles Dickens,1
+003,The Lord of the Rings,J.R.R. Tolkien,1 
+004,The Little Prince,Antoine de Saint-Exupery,1
+005,Harry Potter and the Sorcerer's Stone,J.K0 Rowling,1
+006,And Then There Were None,Agatha Christie,1
+007,Dream of the Red Chamber,Cao Xueqin,1
+008,The Hobbit,J.R.R. Tolkien,1
+009,Alice's Adventures in Wonderland,Lewis Carroll,1
+010,The Lion the Witch and the Wardrobe,C.S. Lewis,1
+011,The Da Vinci Code,Dan Brown,1
+012,Think and Grow Rich,Napoleon Hill,1
+013,The Catcher in the Rye,J.D. Salinger,1
+014,The Alchemist,Paulo Coelho,1
+015,One Hundred Years of Solitude,Gabriel Garcia Marquez,1
+016,The Great Gatsby,F. Scott Fitzgerald,1
+017,To Kill a Mockingbird,Harper Lee,1
+018,1984,George Orwell,1
+019,Pride and Prejudice,Jane Austen,1
+020,Jane Eyre,Charlotte Bronte,1
+021,Wuthering Heights,Emily Bronte,1
+022,Moby-Dick,Herman Melville,1
+023,Crime and Punishment,Fyodor Dostoevsky,1
+024,War and Peace,Leo Tolstoy,1
+025,Anna Karenina,Leo Tolstoy,1
+026,The Adventures of Huckleberry Finn,Mark Twain,1
+027,Great Expectations,Charles Dickens,1
+028,Little Women,Louisa May Alcott,1
+029,Dracula,Bram Stoker,1
+030,Frankenstein,Mary Shelley,1
+031,The Count of Monte Cristo,Alexandre Dumas,1
+032,The Three Musketeers,Alexandre Dumas,1
+033,Les Miserables,Victor Hugo,1
+034,The Divine Comedy,Dante Alighieri,0
+035,The Odyssey,Homer,1
+036,The Iliad,Homer,1
+037,Beowulf,Anonymous,1
+038,The Canterbury Tales,Geoffrey Chaucer,1
+039,Hamlet,William Shakespeare,1
+040,Macbeth,William Shakespeare,1
+041,Romeo and Juliet,William Shakespeare,1
+042,Paradise Lost,John Milton,1
+043,Gulliver's Travels,Jonathan Swift,1
+044,Robinson Crusoe,Daniel Defoe,1
+045,The Scarlet Letter,Nathaniel Hawthorne,1
+046,The Picture of Dorian Gray,Oscar Wilde,1
+047,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,1
+048,Heart of Darkness,Joseph Conrad,1
+049,A Farewell to Arms,Ernest Hemingway,1
+050,The Grapes of Wrath,John Steinbeck,1
+051,Of Mice and Men,John Steinbeck,1
+052,Brave New World,Aldous Huxley,1
+053,Fahrenheit 451,Ray Bradbury,1
+054,Catch-22,Joseph Heller,1
+055,Slaughterhouse-Five,Kurt Vonnegut,0
+056,The Handmaid's Tale,Margaret Atwood,1
+057,Foundation,Isaac Asimov,1
+058,Dune,Frank Herbert,1
+059,Neuromancer,William Gibson,1
+060,Do Androids Dream of Electric Sheep?,Philip K. Dick,1
+061,A Wrinkle in Time,Madeleine L'Engle,1
+062,The Secret Garden,Frances Hodgson Burnett,1
+063,The Tale of Peter Rabbit,Beatrix Potter,1
+064,Where the Sidewalk Ends,Shel Silverstein,1
+065,Charlotte's Web,E.B. White,1
+066,Gone with the Wind,Margaret Mitchell,1
+067,Rebecca,Daphne du Maurier,1
+068,The Stand,Stephen King,1
+069,The Girl with the Dragon Tattoo,Stieg Larsson,1
+070,The Hunger Games,Suzanne Collins,1
+071,The Kite Runner,Khaled Hosseini,1
+072,Memoirs of a Geisha,Arthur Golden,1
+073,The Road,Cormac McCarthy,1
+074,The Color Purple,Alice Walker,1
+075,Beloved,Toni Morrison,1
+076,Invisible Man,Ralph Ellison,1
+077,Things Fall Apart,Chinua Achebe,1
+078,The Joy Luck Club,Amy Tan,1
+079,The Diary of a Young Girl,Anne Frank,1
+080,Into Thin Air,Jon Krakauer,1
+081,A Brief History of Time,Stephen Hawking,1
+082,Sapiens: A Brief History of Humankind,Yuval Noah Harari,1
+083,Educated,Tara Westover,1
+084,The 7 Habits of Highly Effective People,Stephen Covey,1
+085,The Power of Now,Eckhart Tolle,1
+086,How to Win Friends and Influence People,Dale Carnegie,1
+087,Silent Spring,Rachel Carson,1
+088,On the Road,Jack Kerouac,1
+089,The Stranger,Albert Camus,1
+090,Mrs. Dalloway,Virginia Woolf,1
+091,The Sound and the Fury,William Faulkner,1
+092,One Flew Over the Cuckoo's Nest,Ken Kesey,1
+093,A Clockwork Orange,Anthony Burgess,1
+094,The Remains of the Day,Kazuo Ishiguro,1
+095,The Old Man and the Sea,Ernest Hemingway,1
+096,Lord of the Flies,William Golding,1
+097,Walden,Henry David Thoreau,1
+098,Zen and the Art of Motorcycle Maintenance,Robert M. Pirsig,1
+099,Life of Pi,Yann Martel,1
+100,The Shadow of the Wind,Carlos Ruiz Zafon,1
+101,The Vanishing Half,Brit Bennett,1
+102,Where the Crawdads Sing,Delia Owens,1
+103,A Thousand Splendid Suns,Khaled Hosseini,1
+104,The Secret History,Donna Tartt,0
+105,The Road Less Traveled,M. Scott Peck,0
